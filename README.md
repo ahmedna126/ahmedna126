@@ -82,7 +82,7 @@ https://github.com/Candida18/Candida18
   <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/>
 <br>
 </div><br>
-  <b>Note:</b> Most Used Languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br>
 
