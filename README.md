@@ -79,7 +79,7 @@ https://github.com/Candida18/Candida18
 
 ## 📘 My top open source projects
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ahmedna126/login_app"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ahmedna126&repo=login_app&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=dracula&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/ahmedna126/attendance_system"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ahmedna126&repo=attendance_system&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
