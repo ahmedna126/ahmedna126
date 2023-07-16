@@ -74,7 +74,7 @@ https://github.com/Candida18/Candida18
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p><br><hr>
+</p><hr>
 
 
 <!--<h3 align="left">Support:</h3>
@@ -96,7 +96,7 @@ https://github.com/Candida18/Candida18
 </div><br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<hr>
+<br>
 
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/ahmedna126"><img alt="Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedna126&custom_title=Ahmed%20Nasr's%20Contribution%20Graph&theme=dracula" /></a><br>
