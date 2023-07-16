@@ -62,12 +62,12 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fjj4jtwfm4R" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedna126&show_icons=true&locale=en&layout=compact" alt="ahmedna126" /></p><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&locale=en" alt="ahmedna126" /></p><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&" alt="ahmedna126" /></p><br>
+<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fjj4jtwfm4R" /></a></p><br>
+<br>
+<div align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedna126&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/>
+</div>
 
 
