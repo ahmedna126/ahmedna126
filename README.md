@@ -25,14 +25,15 @@ https://github.com/Candida18/Candida18
 
 <h1 align="center">Hi 👋, I'm Ahmed Nasr</h1>
 <h3 align="center">Aspiring Graduate who wish to learn and work on new skills and technologies 😊</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedna126&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedna126" /> </p>
+
 <p align="right">
  <!-- <a href="https://github.com/ahmedna126"> <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ahmedna126&label=views&color=282a36&style=for-the-badge&cntSuffix=%20Views"/></a> -->
 <a href="https://github.com/ahmedna126?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fahmedna126"/></a>
 <a href="https://github.com/ahmedna126?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ahmedna126?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <hr>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedna126&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedna126" /> </p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/ahmedna126" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedna126?logo=twitter&style=for-the-badge" alt="ahmedna126" /></a> </p>
