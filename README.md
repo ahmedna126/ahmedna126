@@ -27,8 +27,8 @@ https://github.com/Candida18/Candida18
 <h3 align="center">Aspiring Graduate who wish to learn and work on new skills and technologies 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedna126&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedna126" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="right">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
      <a href="https://github.com/ahmedna126?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fahmedna126"/></a>
   <a href="https://github.com/ahmedna126?tab=followers">
