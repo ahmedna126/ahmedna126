@@ -87,11 +87,10 @@ https://github.com/Candida18/Candida18
 <br>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/ahmedna126"><img alt="Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedna126&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=dracula" /></a><br><br>
+<a href="https://github.com/ahmedna126"><img alt="Ahmed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedna126&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=dracula" /></a><br>
 
 
 ## 📘 My top open source projects
-
 <p align="center">
     <a href="https://github.com/ahmedna126/login_app"><img width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ahmedna126&repo=login_app&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=dracula&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/ahmedna126/attendance_system"><img width="35%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ahmedna126&repo=attendance_system&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
