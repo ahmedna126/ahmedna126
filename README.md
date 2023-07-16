@@ -75,7 +75,7 @@ https://github.com/Candida18/Candida18
 </div>-->
 
 
-## 📊 Github Profile Stats
+## 📊 Github Profile Status
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedna126&layout=compact&langs_count=7&theme=dracula"/><br>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -96,3 +96,6 @@ https://github.com/Candida18/Candida18
   <a href="https://github.com/ahmedna126/attendance_system"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ahmedna126&repo=attendance_system&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
