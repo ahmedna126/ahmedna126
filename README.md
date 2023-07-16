@@ -75,7 +75,12 @@ https://github.com/Candida18/Candida18
 </div>-->
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula" alt="ahmedna126" /></p>
+<div align="center">
+    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedna126&layout=compact&langs_count=7&theme=dracula"/>
+     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+    <img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/>
+</div>
+<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula" alt="ahmedna126" /></p>-->
 
 ## 📊 Github Stats (Expand to View)
 
