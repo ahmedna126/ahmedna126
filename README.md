@@ -26,7 +26,6 @@ https://github.com/Candida18/Candida18
 <h1 align="center">Hi 👋, I'm Ahmed Nasr</h1>
 <h3 align="center">Aspiring Graduate who wish to learn and work on new skills and technologies 😊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedna126&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedna126" /> </p>
 
 <p align="right">
  <!-- <a href="https://github.com/ahmedna126"> <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ahmedna126&label=views&color=282a36&style=for-the-badge&cntSuffix=%20Views"/></a> -->
@@ -35,6 +34,7 @@ https://github.com/Candida18/Candida18
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedna126&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedna126" /> </p>
 <p align="left"> <a href="https://twitter.com/ahmedna126" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedna126?logo=twitter&style=for-the-badge" alt="ahmedna126" /></a> </p>
 
 <!--<img align="right" alt="Coding" width="400" src="aa2.gif">-->
