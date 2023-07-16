@@ -62,7 +62,7 @@ https://github.com/Candida18/Candida18
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br><br><hr>
 </p>
 
 <!--<h3 align="left">Support:</h3>
@@ -73,40 +73,23 @@ https://github.com/Candida18/Candida18
      <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
     <img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/>
 </div>-->
-## 🔥 Streak Stats
 
+
+## 📊 Github Stats
 <div align="center">
-    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedna126&layout=compact&langs_count=7&theme=dracula"/>
-     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-    <img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/>
+<p align="center"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedna126&layout=compact&langs_count=7&theme=dracula"/></p>
+<p align="left"><img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
+<p align="left"><img align="left" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/></p>
+<br><br><br><br><br><br><br>
 </div>
-<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula" alt="ahmedna126" /></p>-->
 
-## 📊 Github Stats (Expand to View)
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<br>
+
+## ⚡ Recent GitHub Activity
   <br/>
-  <p align="center">
-    <a href="https://github.com/ahmedna126"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&locale=en&theme=dracula" alt="ahmedna126" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedna126&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ahmedna126" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+	<a href="https://github.com/ahmedna126"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedna126&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=dracula" /></a><br><br>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-	<a href="https://github.com/ahmedna126"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedna126&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=dracula" /></a>
-  <br/>
-
-</details>
-
-<br/>
 
 ## 📘 My top open source projects
 
