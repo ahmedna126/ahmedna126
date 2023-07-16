@@ -81,8 +81,8 @@ https://github.com/Candida18/Candida18
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ahmedna126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedna126&theme=dracula"/>
 <br>
-</div>
-
+</div><br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br>
 
