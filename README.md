@@ -35,7 +35,10 @@ https://github.com/Candida18/Candida18
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedna126&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedna126" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif"> -->
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/dev-ameyjoshi/dev-ameyjoshi/99b2a4cbe8707c56e81ab556111bc457fd15068b/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/ahmedna126" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedna126?logo=twitter&style=for-the-badge" alt="ahmedna126" /></a> </p>
 
@@ -74,7 +77,7 @@ https://github.com/Candida18/Candida18
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p><hr>
+</p><br><hr>
 
 
 <!--<h3 align="left">Support:</h3>
