@@ -38,7 +38,8 @@ https://github.com/Candida18/Candida18
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/coding.gif"> -->
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/dev-ameyjoshi/dev-ameyjoshi/99b2a4cbe8707c56e81ab556111bc457fd15068b/coding.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/dev-ameyjoshi/dev-ameyjoshi/99b2a4cbe8707c56e81ab556111bc457fd15068b/coding.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/ixCfDfZ.gif">
 
 <p align="left"> <a href="https://twitter.com/ahmedna126" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedna126?logo=twitter&style=for-the-badge" alt="ahmedna126" /></a> </p>
 
